@@ -1,0 +1,46 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "arktos",
+            "latitude": 51.177985,
+            "longitude": 4.985418
+          },
+          {
+            "id": 2,
+            "name": "herman",
+            "latitude": 51.177787,
+            "longitude": 4.983353
+          },
+          {
+            "id": 3,
+            "name": "cafecampus",
+            "latitude": 51.164076,
+            "longitude": 4.961670
+          },
+          {
+            "id": 4,
+            "name": "kerksintamands",
+            "latitude": 51.161812,
+            "longitude": 4.990378
+          },
+          {
+            "id": 5,
+            "name": "axion",
+            "latitude": 51.162210,
+            "longitude": 4.957257
+          },
+          {
+            "id": 6,
+            "name": "kiefhoeve",
+            "latitude": 51.155207,
+            "longitude": 4.961499
+          },
+          {
+            "id": 7,
+            "name": "mystery",
+            "latitude": 51.155207,
+            "longitude": 4.961499
+          }
+    ]
+}

@@ -1,0 +1,16 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# macOS specific
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Editor folders and configuration
+.vscode/
+.idea/
