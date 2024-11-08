@@ -51,10 +51,5 @@
           }
     ],
     "checkins": [
-      {
-        "id": 1,
-        "locationId": 1,
-        "username": "Michaël Cloots"
-      }
     ]
 }
