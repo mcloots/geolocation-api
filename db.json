@@ -3,49 +3,42 @@
         {
             "id": 1,
             "name": "arktos",
-            "modelname": "ufo",
+            "texture": "blue",
             "latitude": 51.177985,
             "longitude": 4.985418
           },
           {
             "id": 2,
             "name": "herman",
-            "modelname": "ufo",
+            "texture": "green",
             "latitude": 51.177787,
             "longitude": 4.983353
           },
           {
             "id": 3,
             "name": "cafecampus",
-            "modelname": "ufo",
+            "texture": "red",
             "latitude": 51.164076,
             "longitude": 4.961670
           },
           {
             "id": 4,
             "name": "kerksintamands",
-            "modelname": "ufo",
+            "texture": "teal",
             "latitude": 51.161812,
             "longitude": 4.990378
           },
           {
             "id": 5,
             "name": "axion",
-            "modelname": "ufo",
+            "texture": "violet",
             "latitude": 51.162210,
             "longitude": 4.957257
           },
           {
             "id": 6,
             "name": "kiefhoeve",
-            "modelname": "ufo",
-            "latitude": 51.155207,
-            "longitude": 4.961499
-          },
-          {
-            "id": 7,
-            "name": "mystery",
-            "modelname": "ufo",
+            "texture": "yellow",
             "latitude": 51.155207,
             "longitude": 4.961499
           }
