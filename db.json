@@ -41,6 +41,27 @@
             "texture": "yellow",
             "latitude": 51.155207,
             "longitude": 4.961499
+          },
+          {
+            "id": 7,
+            "name": "chimay",
+            "texture": "blue",
+            "latitude": 51.16054,
+            "longitude": 4.95965
+          },
+          {
+            "id": 8,
+            "name": "leffe",
+            "texture": "blue",
+            "latitude": 51.15993,
+            "longitude": 4.96157
+          },
+          {
+            "id": 9,
+            "name": "duvel",
+            "texture": "blue",
+            "latitude": 51.16137,
+            "longitude": 4.962102
           }
     ],
     "checkins": [
