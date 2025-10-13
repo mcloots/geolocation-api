@@ -41,6 +41,13 @@
             "texture": "yellow",
             "latitude": 51.155207,
             "longitude": 4.961499
+          },
+          {
+            "id": 7,
+            "name": "home",
+            "texture": "yellow",
+            "latitude": 51.117492,
+            "longitude": 4.910806
           }
     ],
     "checkins": [
