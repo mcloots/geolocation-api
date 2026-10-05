@@ -2,52 +2,24 @@
     "locations": [
         {
             "id": 1,
-            "name": "arktos",
+            "name": "snoepjes 1",
             "texture": "blue",
-            "latitude": 51.177985,
-            "longitude": 4.985418
+            "latitude": 51.16287,
+            "longitude": 4.961541
           },
           {
             "id": 2,
-            "name": "herman",
+            "name": "snoepjes 2",
             "texture": "green",
-            "latitude": 51.177787,
-            "longitude": 4.983353
+            "latitude": 51.16019,
+            "longitude": 4.959165
           },
           {
             "id": 3,
-            "name": "cafecampus",
+            "name": "snoepjes 3",
             "texture": "red",
-            "latitude": 51.164076,
-            "longitude": 4.961670
-          },
-          {
-            "id": 4,
-            "name": "kerksintamands",
-            "texture": "teal",
-            "latitude": 51.161812,
-            "longitude": 4.990378
-          },
-          {
-            "id": 5,
-            "name": "axion",
-            "texture": "violet",
-            "latitude": 51.162210,
-            "longitude": 4.957257
-          },
-          {
-            "id": 6,
-            "name": "kiefhoeve",
-            "texture": "yellow",
-            "latitude": 51.155207,
-            "longitude": 4.961499
-          },
-          {
-            "id": 7,
-            "name": "D211",
-            "texture": "yellow",
-            "latitude": 51.16177,
-            "longitude": 4.961347
+            "latitude": 51.16137,
+            "longitude": 4.962917
           }
     ],
     "checkins": [
